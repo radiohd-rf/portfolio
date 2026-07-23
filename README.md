@@ -55,7 +55,7 @@
 **Стек:** Postman, YouTrack, Git, ручное тестирование (Windows 10/11), Charles Proxy, FFmpeg
 
 🔗 [Ссылка на репозиторий проекта](https://github.com/radiohd-rf/PromptEar)  
-📁 [Ссылка на тестовую документацию (чек-листы, баг-репорты)](https://github.com/radiohd-rf/PromptEar/tree/main/testing)
+📁 [Ссылка на тестовую документацию (чек-листы, баг-репорты)](https://github.com/radiohd-rf/PromptEar/tree/master/testing)
 
 ---
 
